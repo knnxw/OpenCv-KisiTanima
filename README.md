@@ -35,7 +35,8 @@
 ***İletişim***
 
    **E-MAIL** : ozankenan8589@gmail.com
-    **INSTAGRAM** : kkkenanozan
+   
+   **INSTAGRAM** : kkkenanozan
 
     
 **Teşekkürler**
