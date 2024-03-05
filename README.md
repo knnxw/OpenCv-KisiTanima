@@ -9,8 +9,11 @@
    ```Henüz Windows işletim sisteminde denenmedi, denendiği gibi güncellenicek.```
    
    Linux tabanlı sistemler için ;
+  
   ```git clone https://github.com/knnxw/OpenCv-KisiTanima```
+  
   ```pip install opencv-python && pip install face_recognition```
+  
    Kurulum bittikten sonra ```python3 opencv-YüzTanima.py``` komutu ile programımızı çaıştırıyoruz.
    İlk çalıştırmada **images** adında bir klasörü aynı dizinde oluşturur. Oluşturduktan sonra önümüze seçenekleri sunacaktır.
 
