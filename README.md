@@ -1,8 +1,10 @@
 ***OpenCV İLe Kişi Tanıma***
+
    Bu proje, OpenCV ve simple_facerec kütüphanelerini kullanarak gerçek zamanlı yüz tanıma işlevselliği sağlar.
    Kullanıcılar, sistemde yüzleri kaydedebilir, tanımlanmış yüzleri tanıyabilir ve kayıtlı yüzleri zahmetsizce silebilir.
 
 ***Kurulum*** 
+
    Windows işletim sistemleri için ;
    ```Henüz Windows işletim sisteminde denenmedi, denendiği gibi güncellenicek.```
    Linux tabanlı sistemler için ;
@@ -12,18 +14,22 @@
    İlk çalıştırmada **images** adında bir klasörü aynı dizinde oluşturur. Oluşturduktan sonra önümüze seçenekleri sunacaktır.
 
 ***Kullanım*** 
+
    Seçenekler kısmı çıktıktan sonra ilk olarak **2.** seçenek ile kendi yüzümüzü sisteme tanıtıyoruz.
    Tanıttıktan sonra **1.** seçenek ile algılanıp algılanmadığını test edebiliriz. Silmek istersek **3.** seçenek ile silebileceğimiz gibi **images** klasörünün içindeki
    **.jpg** uzantılı dosyaları silerekte sistemden kaldırabiliriz. Manuel eklemek içinde **images** klasörüne resimleri yükleyebiliriz.
 
 ***Önemli Hususlar*** 
+
    Eğer **images** klasörü boş ise **1.** seçenek çalışmaz ve program kapanır.
 
 ***Katkıda Bulunanlar***
+
    Programlama ve Yazılım ; **Kenan OZAN**
    Araştırma ve hata çözümü ; **Azra TURAN**
 
 ***İletişim***
+
     **E-MAIL :** ozankenan8589@gmail.com
     **INSTAGRAM :** kkkenanozan
 
