@@ -47,6 +47,7 @@
 
 Ayrıca, aşağıdaki eğitici kaynaklardan ilham aldık ve faydalandık:
   ***[Mr.Çilek Youtube](https://www.youtube.com/@mrcilek4454)***
+  
   ***[Face recognition in real-time with OpenCV and Python](https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/)***
 
    
