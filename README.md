@@ -30,6 +30,7 @@
 **Katkıda Bulunanlar**
 
    Programlama ve Yazılım ; ***Kenan OZAN***
+   
    Araştırma ve hata çözümü ; ***Azra TURAN***
 
 **İletişim**
