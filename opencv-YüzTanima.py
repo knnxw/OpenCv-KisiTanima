@@ -3,7 +3,11 @@ import cv2
 import os
 import time
 from simple_facerec import SimpleFacerec
-
+#eğer images klasörü yok ise oluşturur
+images_dir = "images"
+if not os.path.exists(images_dir):
+    os.makedirs(images_dir)
+    print(f"'{images_dir}' klasörü oluşturuldu.")
 # Yüz tanıma için gerekli dosyaları yükle
 sfr = SimpleFacerec()
 
