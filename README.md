@@ -7,6 +7,7 @@
 
    Windows işletim sistemleri için ;
    ```Henüz Windows işletim sisteminde denenmedi, denendiği gibi güncellenicek.```
+   
    Linux tabanlı sistemler için ;
   ```git clone https://github.com/knnxw/OpenCv-KisiTanima```
   ```pip install opencv-python && pip install face_recognition```
