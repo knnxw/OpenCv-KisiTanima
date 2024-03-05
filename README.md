@@ -34,9 +34,10 @@
 
 ***İletişim***
 
-    **E-MAIL :** ozankenan8589@gmail.com
-    **INSTAGRAM :** kkkenanozan
+   **E-MAIL** : ozankenan8589@gmail.com
+    **INSTAGRAM** : kkkenanozan
 
+    
 **Teşekkürler**
   Bu projeyi geliştirirken aşağıdaki kütüphanelerden ve eğitici kaynaklardan faydalandık:
 [OpenCV](https://opencv.org/) - Bilgisayar görüntü işleme için açık kaynaklı bir kütüphane.
