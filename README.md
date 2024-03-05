@@ -40,6 +40,7 @@
 
     
 **Teşekkürler**
+
   Bu projeyi geliştirirken aşağıdaki kütüphanelerden ve eğitici kaynaklardan faydalandık:
 [OpenCV](https://opencv.org/) - Bilgisayar görüntü işleme için açık kaynaklı bir kütüphane.
 [face_recognition](https://pypi.org/project/face-recognition/) - Yüz tanıma için kullanılan basit bir kütüphane.
