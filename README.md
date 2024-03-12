@@ -1,3 +1,6 @@
+[![Hits](https://hits.sh/github.com/knnxw/OpenCv-KisiTanima.svg?style=for-the-badge&label=G%C3%B6r%C3%BCnt%C3%BCleme&color=1a1cd8&labelColor=000000)](https://hits.sh/github.com/knnxw/OpenCv-KisiTanima/)
+
+
 **OpenCV İLe Kişi Tanıma**
 
    Bu proje, OpenCV ve face_recognition kütüphanelerini kullanarak gerçek zamanlı yüz tanıma işlevselliği sağlar.
