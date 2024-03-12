@@ -1,6 +1,6 @@
 **OpenCV İLe Kişi Tanıma**
 
-   Bu proje, OpenCV ve simple_facerec kütüphanelerini kullanarak gerçek zamanlı yüz tanıma işlevselliği sağlar.
+   Bu proje, OpenCV ve face_recognition kütüphanelerini kullanarak gerçek zamanlı yüz tanıma işlevselliği sağlar.
    Kullanıcılar, sistemde yüzleri kaydedebilir, tanımlanmış yüzleri tanıyabilir ve kayıtlı yüzleri zahmetsizce silebilir.
 
 ***Kurulum*** 
@@ -10,7 +10,7 @@
    
    Linux tabanlı sistemler için ;
   
-  ```git clone https://github.com/knnxw/OpenCv-KisiTanima```
+  ```git clone https://github.com/knnxw/OpenCv-KisiTanima && cd OpenCv-KisiTanima```
   
   ```pip install opencv-python && pip install face_recognition```
   
