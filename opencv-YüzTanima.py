@@ -126,12 +126,11 @@ try:
               print("""
     OPENCV - YÜZ TANIMA SİSTEMİ 1.0
 
-    Bu program, OpenCV ve simple_facerec kütüphanelerini kullanarak geliştirilmiş,
+    Bu program, OpenCV ve face_recognition kütüphanelerini kullanarak geliştirilmiş,
     temel düzeyde bir yüz tanıma sistemini içerir.
     
     Kullanım:
-    1. Programı başlatın.
-    2. Menüden istediğiniz işlemi seçin:
+    1. Menüden istediğiniz işlemi seçin:
        - [1] Yüz Tanıma: Tanıdığı kişileri gösterir.
        - [2] Yeni Kişi Ekleme: Yeni kişiler eklemenizi sağlar.
        - [3] Kişi Silme: Sisteme ekli kişileri silebilirsiniz.
@@ -144,7 +143,7 @@ try:
     """)
               time.sleep(5)
         elif mod == "99":
-            print("Good by :)")
+            print("Görüşmek üzere :)")
             break
 
         else:
